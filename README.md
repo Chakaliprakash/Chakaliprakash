@@ -1,45 +1,89 @@
-# Hi, I'm Prakash Chakali 👋
+<div align="center">
 
-### Java Backend Developer | Spring Boot | REST APIs | Problem Solving
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:172554,75:4c1d95,100:06b6d4&height=220&section=header&text=Prakash%20Chakali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=60&descSize=16" alt="Dark futuristic blue and purple profile banner" width="100%" />
 
-I’m a Computer Science graduate focused on building reliable backend applications with **Java, Spring Boot, SQL, and REST APIs**. I enjoy solving programming problems, designing secure services, and learning how to build and deploy production-ready applications.
+[![GitHub](https://img.shields.io/badge/GitHub-Chakaliprakash-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chakaliprakash)
+[![Java](https://img.shields.io/badge/Java-Backend-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-APIs-0ea5e9?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
-- 🔭 **Focus:** Java backend development, Spring Boot, REST API design, and full-stack fundamentals
-- 🛠️ **Core stack:** Java, Spring Boot, Spring MVC, Spring Security, JDBC, MySQL, SQL, JWT
-- 🌱 **Currently strengthening:** Data structures and algorithms, backend architecture, testing, and deployment
-- 🤝 **Open to:** Entry-level Java Developer, Backend Developer, and Java Full Stack opportunities
-- 📍 **Based in:** Hyderabad, India
+### Building useful backend systems, one commit at a time.
 
-## 🧰 Tech Stack
+*Computer Science graduate focused on Java backend development, secure REST APIs, SQL, and practical problem solving.*
 
-**Languages:** Java, SQL, JavaScript  
-**Backend:** Spring Boot, Spring MVC, Spring Security, JDBC, REST APIs, JWT  
-**Databases:** MySQL, Oracle SQL  
-**Frontend:** HTML, CSS, React  
-**Tools:** Git, GitHub, Maven, Postman, Docker
-
-## 🚀 Featured Projects
-
-| Project | What it demonstrates |
-| --- | --- |
-| [Leave Management System](https://github.com/Chakaliprakash/Leave-Management-System) | Leave-management application and backend development |
-| [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email generation with backend, frontend, and browser extension components |
-| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Exploring AI integration with Java and Spring |
-| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | E-commerce application with frontend and backend components |
-| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java coding practice and data structures and algorithms |
-
-## 📌 What I Value
-
-- Writing readable, maintainable Java code
-- Building secure APIs and working with relational databases
-- Understanding fundamentals rather than memorizing solutions
-- Improving through consistent practice and feedback
-
-## 📫 Connect
-
-- **GitHub:** [@Chakaliprakash](https://github.com/Chakaliprakash)
-- **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/)
+</div>
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect.*
+## 🧑‍💻 About Me
+
+- 🔭 Focused on **Java, Spring Boot, REST API design, and backend engineering**
+- 🔐 Interested in secure applications, authentication, and relational database design
+- 🧠 Practising data structures and algorithms while strengthening core CS fundamentals
+- 🤝 Open to entry-level **Java Developer, Backend Developer, and Java Full Stack** opportunities
+- 📍 Hyderabad, India
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-0b1020?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0b1020?style=for-the-badge&logo=springboot&logoColor=6db33f)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0b1020?style=for-the-badge&logo=springsecurity&logoColor=6db33f)
+![MySQL](https://img.shields.io/badge/MySQL-0b1020?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-0b1020?style=for-the-badge&logo=oracle&logoColor=f80000)
+![React](https://img.shields.io/badge/React-0b1020?style=for-the-badge&logo=react&logoColor=61dafb)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1020?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-0b1020?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0b1020?style=for-the-badge&logo=css3&logoColor=1572b6)
+![Maven](https://img.shields.io/badge/Maven-0b1020?style=for-the-badge&logo=apachemaven&logoColor=c71a36)
+![Git](https://img.shields.io/badge/Git-0b1020?style=for-the-badge&logo=git&logoColor=f05032)
+![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Postman](https://img.shields.io/badge/Postman-0b1020?style=for-the-badge&logo=postman&logoColor=ff6c37)
+
+</div>
+
+## 🌌 3D Contribution Universe
+
+Your contribution data is rendered into a 3D visual by a GitHub Actions workflow in this repository. The image is generated from GitHub activity; it is not a manually invented contribution count.
+
+<div align="center">
+
+![3D GitHub contribution universe](./profile/git3d-universe.svg)
+
+</div>
+
+> The 3D graphic appears after the first successful run of **Generate 3D contribution universe** in the Actions tab.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chakaliprakash&show_icons=true&hide_border=true&bg_color=050816&title_color=60a5fa&icon_color=a78bfa&text_color=e5e7eb&ring_color=8b5cf6" alt="GitHub stats for Chakaliprakash" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=compact&hide_border=true&bg_color=050816&title_color=60a5fa&text_color=e5e7eb" alt="Most-used public repository languages" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chakaliprakash&theme=transparent&hide_border=true&background=050816&ring=8B5CF6&fire=06B6D4&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8)](https://github.com/Chakaliprakash)
+
+</div>
+
+*Stats cards are generated by third-party services and may occasionally be unavailable or delayed. Language cards reflect repository language data, not a measure of skill.*
+
+## 🚀 Featured Projects
+
+| Project | Highlights |
+|---|---|
+| [Leave Management System](https://github.com/Chakaliprakash/Leave-Management-System) | Leave-management application and backend development |
+| [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email generation with backend, frontend, and browser-extension components |
+| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Exploring AI integration with Java and Spring |
+| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | E-commerce application with frontend and backend components |
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java data structures and algorithm practice |
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/Chakaliprakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4c1d95,100:050816&height=100&section=footer" alt="" width="100%" />
+
+</div>
