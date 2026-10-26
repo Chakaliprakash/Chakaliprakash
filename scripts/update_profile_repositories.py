@@ -33,7 +33,7 @@ def get_public_repositories():
     repos = []
     page = 1
     while True:
-        url = f"{API_ROOT}/users/{OWNER}/repos?type=public&sort=updated&per_page=100&page={page}"
+        url = f"{API_ROOT}/users/{OWNER}/repos?type=owner&sort=updated&per_page=100&page={page}"
         batch = github_get(url)
         if not batch:
             break
@@ -43,7 +43,8 @@ def get_public_repositories():
         page += 1
     return [
         repo for repo in repos
-        if not repo.get("fork", False)
+        if not repo.get("private", False)
+        and not repo.get("fork", False)
         and repo.get("full_name", "").lower() != PROFILE_REPO.lower()
         and not repo.get("archived", False)
     ]
