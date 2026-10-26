@@ -1,0 +1,35 @@
+name: Auto-update profile repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run daily at 04:25 UTC (09:55 IST).
+    - cron: "25 4 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/auto-update-repositories.yml"
+      - "scripts/update_profile_repositories.py"
+      - "README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-update-profile-repositories
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    name: Refresh featured projects and repository map
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update README from public GitHub repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_profile_repositories.py
