@@ -1,89 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:172554,75:4c1d95,100:06b6d4&height=220&section=header&text=Prakash%20Chakali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=60&descSize=16" alt="Dark futuristic blue and purple profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:1e1b4b,65:4c1d95,100:0891b2&height=250&section=header&text=PRAKASH%20CHAKALI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=JAVA%20BACKEND%20ENGINEER%20%7C%20SPRING%20BOOT%20%7C%20API%20DESIGN&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Neon blue and purple futuristic profile header"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chakaliprakash-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chakaliprakash)
-[![Java](https://img.shields.io/badge/Java-Backend-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-APIs-0ea5e9?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+reliable+Java+backend+systems;Designing+secure+REST+APIs;Learning+by+building+and+shipping" alt="Animated developer tagline"/>
 
-### Building useful backend systems, one commit at a time.
+<br/>
 
-*Computer Science graduate focused on Java backend development, secure REST APIs, SQL, and practical problem solving.*
+<a href="https://github.com/Chakaliprakash"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/JAVA-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SPRING_BOOT-0F766E?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+<a href="https://github.com/Chakaliprakash?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🔭 Focused on **Java, Spring Boot, REST API design, and backend engineering**
-- 🔐 Interested in secure applications, authentication, and relational database design
-- 🧠 Practising data structures and algorithms while strengthening core CS fundamentals
-- 🤝 Open to entry-level **Java Developer, Backend Developer, and Java Full Stack** opportunities
-- 📍 Hyderabad, India
+## ◈ SYSTEM PROFILE
 
-## ⚙️ Tech Stack
+**NAME**  
+Prakash Chakali
+
+**ROLE**  
+Java Backend Developer
+
+**LOCATION**  
+Hyderabad, India
+
+**FOCUS**  
+Spring Boot · REST APIs · SQL
+
+Computer Science graduate focused on building reliable backend applications, secure services, and useful software.
+
+- 🔐 Interested in authentication, API security, and database design
+- 🧠 Strengthening DSA and core computer science fundamentals
+- 🎯 Seeking entry-level Java Backend / Full Stack opportunities
+
+</td>
+<td width="42%" valign="top">
+
+## ◈ CORE MODULES
+
+![Java](https://img.shields.io/badge/Java-050816?style=flat-square&logo=openjdk&logoColor=F59E0B)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-050816?style=flat-square&logo=springboot&logoColor=86EFAC)
+![Spring Security](https://img.shields.io/badge/Security-050816?style=flat-square&logo=springsecurity&logoColor=86EFAC)
+![MySQL](https://img.shields.io/badge/MySQL-050816?style=flat-square&logo=mysql&logoColor=7DD3FC)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-050816?style=flat-square&logo=oracle&logoColor=FCA5A5)
+![React](https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=67E8F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=FDE047)
+![HTML5](https://img.shields.io/badge/HTML5-050816?style=flat-square&logo=html5&logoColor=FB923C)
+![CSS3](https://img.shields.io/badge/CSS3-050816?style=flat-square&logo=css3&logoColor=7DD3FC)
+![Maven](https://img.shields.io/badge/Maven-050816?style=flat-square&logo=apachemaven&logoColor=FCA5A5)
+![Git](https://img.shields.io/badge/Git-050816?style=flat-square&logo=git&logoColor=FB923C)
+![Docker](https://img.shields.io/badge/Docker-050816?style=flat-square&logo=docker&logoColor=7DD3FC)
+![Postman](https://img.shields.io/badge/Postman-050816?style=flat-square&logo=postman&logoColor=FDBA74)
+
+</td>
+</tr>
+</table>
+
+## ◈ FEATURED BUILDS
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0b1020?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0b1020?style=for-the-badge&logo=springboot&logoColor=6db33f)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0b1020?style=for-the-badge&logo=springsecurity&logoColor=6db33f)
-![MySQL](https://img.shields.io/badge/MySQL-0b1020?style=for-the-badge&logo=mysql&logoColor=4479a1)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-0b1020?style=for-the-badge&logo=oracle&logoColor=f80000)
-![React](https://img.shields.io/badge/React-0b1020?style=for-the-badge&logo=react&logoColor=61dafb)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1020?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![HTML5](https://img.shields.io/badge/HTML5-0b1020?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0b1020?style=for-the-badge&logo=css3&logoColor=1572b6)
-![Maven](https://img.shields.io/badge/Maven-0b1020?style=for-the-badge&logo=apachemaven&logoColor=c71a36)
-![Git](https://img.shields.io/badge/Git-0b1020?style=for-the-badge&logo=git&logoColor=f05032)
-![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=2496ed)
-![Postman](https://img.shields.io/badge/Postman-0b1020?style=for-the-badge&logo=postman&logoColor=ff6c37)
+<a href="https://github.com/Chakaliprakash/AI-Email-Generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=AI-Email-Generator&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="AI Email Generator repository card"/>
+</a>
+<a href="https://github.com/Chakaliprakash/Leave-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Leave-Management-System&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="Leave Management System repository card"/>
+</a>
+<a href="https://github.com/Chakaliprakash/SpringAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="SpringAI repository card"/>
+</a>
+<a href="https://github.com/Chakaliprakash/Ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Ecommerce&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="Ecommerce repository card"/>
+</a>
 
 </div>
 
-## 🌌 3D Contribution Universe
-
-Your contribution data is rendered into a 3D visual by a GitHub Actions workflow in this repository. The image is generated from GitHub activity; it is not a manually invented contribution count.
+## ◈ LIVE GITHUB TELEMETRY
 
 <div align="center">
 
-![3D GitHub contribution universe](./profile/git3d-universe.svg)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chakaliprakash&show_icons=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub repository and contribution stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=donut&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=E2E8F0" alt="Language distribution across public repositories"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Chakaliprakash&theme=transparent&hide_border=true&background=050816&ring=8B5CF6&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub contribution streak visualization"/>
 
 </div>
 
-> The 3D graphic appears after the first successful run of **Generate 3D contribution universe** in the Actions tab.
+<sub>Stats and language cards are generated by external services from GitHub data. They can be delayed or temporarily unavailable; language distribution is not a measure of skill.</sub>
 
-## 📊 GitHub Stats
+## ◈ 3D CONTRIBUTION SPACE
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chakaliprakash&show_icons=true&hide_border=true&bg_color=050816&title_color=60a5fa&icon_color=a78bfa&text_color=e5e7eb&ring_color=8b5cf6" alt="GitHub stats for Chakaliprakash" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=compact&hide_border=true&bg_color=050816&title_color=60a5fa&text_color=e5e7eb" alt="Most-used public repository languages" />
+<img src="./profile/git3d-universe.svg" width="100%" alt="Generated 3D GitHub contribution visualization"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chakaliprakash&theme=transparent&hide_border=true&background=050816&ring=8B5CF6&fire=06B6D4&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8)](https://github.com/Chakaliprakash)
+<sub>Generated from GitHub activity by the repository's scheduled Actions workflow. If this image is not available yet, open the workflow below and check its latest run.</sub>
+
+<a href="https://github.com/Chakaliprakash/Chakaliprakash/actions/workflows/git3d-universe.yml"><img src="https://img.shields.io/badge/3D_WORKFLOW-View_Actions-6D28D9?style=for-the-badge&logo=githubactions&logoColor=white" alt="View 3D workflow"/></a>
 
 </div>
 
-*Stats cards are generated by third-party services and may occasionally be unavailable or delayed. Language cards reflect repository language data, not a measure of skill.*
+## ◈ REPOSITORY MAP
 
-## 🚀 Featured Projects
-
-| Project | Highlights |
+| Repository | Focus |
 |---|---|
-| [Leave Management System](https://github.com/Chakaliprakash/Leave-Management-System) | Leave-management application and backend development |
-| [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email generation with backend, frontend, and browser-extension components |
-| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Exploring AI integration with Java and Spring |
-| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | E-commerce application with frontend and backend components |
-| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java data structures and algorithm practice |
-
-## 🤝 Connect
+| [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email generation |
+| [Leave Management System](https://github.com/Chakaliprakash/Leave-Management-System) | Leave-management application |
+| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java and Spring AI exploration |
+| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | E-commerce frontend/backend |
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java DSA practice |
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/Chakaliprakash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+## ◈ ESTABLISH CONNECTION
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4c1d95,100:050816&height=100&section=footer" alt="" width="100%" />
+<a href="https://github.com/Chakaliprakash"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:4c1d95,75:1e1b4b,100:020617&height=130&section=footer" width="100%" alt="Neon blue and purple footer"/>
+
+<sub>Thanks for visiting — feel free to explore the projects.</sub>
 
 </div>
