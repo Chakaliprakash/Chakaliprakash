@@ -15,55 +15,6 @@
 
 </div>
 
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## ◈ SYSTEM PROFILE
-
-**NAME**  
-Prakash Chakali
-
-**ROLE**  
-Java Backend Developer
-
-**LOCATION**  
-Hyderabad, India
-
-**FOCUS**  
-Spring Boot · REST APIs · SQL
-
-Computer Science graduate focused on building reliable backend applications, secure services, and useful software.
-
-- 🔐 Interested in authentication, API security, and database design
-- 🧠 Strengthening DSA and core computer science fundamentals
-- 🎯 Seeking entry-level Java Backend / Full Stack opportunities
-
-</td>
-<td width="42%" valign="top">
-
-## ◈ CORE MODULES
-
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=F59E0B)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-050816?style=flat-square&logo=springboot&logoColor=86EFAC)
-![Spring Security](https://img.shields.io/badge/Security-050816?style=flat-square&logo=springsecurity&logoColor=86EFAC)
-![MySQL](https://img.shields.io/badge/MySQL-050816?style=flat-square&logo=mysql&logoColor=7DD3FC)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-050816?style=flat-square&logo=oracle&logoColor=FCA5A5)
-![React](https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=67E8F9)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=FDE047)
-![HTML5](https://img.shields.io/badge/HTML5-050816?style=flat-square&logo=html5&logoColor=FB923C)
-![CSS3](https://img.shields.io/badge/CSS3-050816?style=flat-square&logo=css3&logoColor=7DD3FC)
-![Maven](https://img.shields.io/badge/Maven-050816?style=flat-square&logo=apachemaven&logoColor=FCA5A5)
-![Git](https://img.shields.io/badge/Git-050816?style=flat-square&logo=git&logoColor=FB923C)
-![Docker](https://img.shields.io/badge/Docker-050816?style=flat-square&logo=docker&logoColor=7DD3FC)
-![Postman](https://img.shields.io/badge/Postman-050816?style=flat-square&logo=postman&logoColor=FDBA74)
-
-</td>
-</tr>
-</table>
-
 ## ◈ FEATURED BUILDS
 
 <!-- AUTO-FEATURED-REPOS:START -->
