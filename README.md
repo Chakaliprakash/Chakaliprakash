@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/download%20(5)-Picsart-AiImageEnhancer.jpg" width="100%" alt="Porsche with a lion cub — luxury automotive profile banner"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:262626,70:6B5B45,100:C9B58A&height=270&section=header&text=PRAKASH%20CHAKALI&fontSize=48&fontColor=F5F0E8&fontAlignY=35&desc=JAVA%20BACKEND%20ENGINEER%20%7C%20SPRING%20BOOT%20%7C%20API%20DESIGN&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Luxury black, silver and gold automotive-inspired profile header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=C9B58A&center=true&vCenter=true&width=720&lines=Building+reliable+Java+backend+systems;Designing+secure+REST+APIs;Learning+by+building+and+shipping" alt="Animated developer tagline"/>
