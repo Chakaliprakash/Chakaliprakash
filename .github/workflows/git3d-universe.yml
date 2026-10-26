@@ -1,9 +1,9 @@
-name: Generate 3D contribution universe
+name: Generate 3D contribution profile
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 3 * * 1"
+    - cron: "17 3 * * 1"
   push:
     branches:
       - main
@@ -15,48 +15,39 @@ permissions:
   contents: write
 
 concurrency:
-  group: git3d-universe
+  group: git3d-profile
   cancel-in-progress: true
-
-env:
-  GIT3D_TIMEZONE: Asia/Kolkata
 
 jobs:
   generate:
-    name: Generate 3D contribution visual
+    name: Generate isometric 3D contribution calendar
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate 3D contribution universe
-        uses: SandeepKomal/Git3D-Universe@v1.0.1
-        with:
-          username: ${{ github.repository_owner }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          theme: daylight
-          output: profile/git3d-universe.svg
-          no-motion: true
+      - name: Generate a different 3D contribution design
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Validate generated SVG
+      - name: Validate generated visual
         run: |
           set -euo pipefail
-          test -s profile/git3d-universe.svg
-          grep -q "<svg" profile/git3d-universe.svg
-          grep -q "</svg>" profile/git3d-universe.svg
+          test -s profile-3d-contrib/profile-night-green.svg
+          grep -q "<svg" profile-3d-contrib/profile-night-green.svg
 
       - name: Commit updated visual
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/git3d-universe.svg
+          git add profile-3d-contrib/profile-night-green.svg
           if git diff --cached --quiet; then
-            echo "No changes to the 3D visual."
+            echo "No changes to the 3D contribution visual."
             exit 0
           fi
-          git commit -m "chore: update 3D contribution universe"
+          git commit -m "chore: update isometric 3D contribution profile"
           git push origin HEAD:main
