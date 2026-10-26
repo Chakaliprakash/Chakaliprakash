@@ -66,6 +66,7 @@ Computer Science graduate focused on building reliable backend applications, sec
 
 ## ◈ FEATURED BUILDS
 
+<!-- AUTO-FEATURED-REPOS:START -->
 <div align="center">
 
 <a href="https://github.com/Chakaliprakash/AI-Email-Generator">
@@ -82,6 +83,7 @@ Computer Science graduate focused on building reliable backend applications, sec
 </a>
 
 </div>
+<!-- AUTO-FEATURED-REPOS:END -->
 
 ## ◈ LIVE GITHUB TELEMETRY
 
@@ -110,6 +112,7 @@ Computer Science graduate focused on building reliable backend applications, sec
 
 ## ◈ REPOSITORY MAP
 
+<!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
 |---|---|
 | [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email generation |
@@ -117,6 +120,7 @@ Computer Science graduate focused on building reliable backend applications, sec
 | [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java and Spring AI exploration |
 | [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | E-commerce frontend/backend |
 | [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java DSA practice |
+<!-- AUTO-REPOSITORY-MAP:END -->
 
 <div align="center">
 
