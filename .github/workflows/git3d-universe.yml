@@ -1,0 +1,62 @@
+name: Generate 3D contribution universe
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * 1"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/git3d-universe.yml"
+      - "README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: git3d-universe
+  cancel-in-progress: true
+
+env:
+  GIT3D_TIMEZONE: Asia/Kolkata
+
+jobs:
+  generate:
+    name: Generate 3D contribution visual
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate 3D contribution universe
+        uses: SandeepKomal/Git3D-Universe@v1.0.1
+        with:
+          username: ${{ github.repository_owner }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          theme: aurora
+          output: profile/git3d-universe.svg
+          no-motion: true
+
+      - name: Validate generated SVG
+        run: |
+          set -euo pipefail
+          test -s profile/git3d-universe.svg
+          grep -q "<svg" profile/git3d-universe.svg
+          grep -q "</svg>" profile/git3d-universe.svg
+
+      - name: Commit updated visual
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/git3d-universe.svg
+          if git diff --cached --quiet; then
+            echo "No changes to the 3D visual."
+            exit 0
+          fi
+          git commit -m "chore: update 3D contribution universe"
+          git push origin HEAD:main
