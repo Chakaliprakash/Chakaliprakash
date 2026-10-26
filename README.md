@@ -20,6 +20,9 @@
 <!-- AUTO-FEATURED-REPOS:START -->
 <div align="center">
 
+<a href="https://github.com/Chakaliprakash/Dsa_Java">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Dsa_Java&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Dsa_Java repository card"/>
+</a>
 <a href="https://github.com/Chakaliprakash/AI-Email-Generator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=AI-Email-Generator&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="AI-Email-Generator repository card"/>
 </a>
@@ -28,9 +31,6 @@
 </a>
 <a href="https://github.com/Chakaliprakash/SpringAI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="SpringAI repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/Leave-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Leave-Management-System&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Leave-Management-System repository card"/>
 </a>
 
 </div>
@@ -66,11 +66,11 @@
 <!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
 |---|---|
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
 | [AI-Email-Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | JavaScript project |
 | [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | JavaScript project |
 | [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
 | [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
-| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
 | [MiniDB](https://github.com/Chakaliprakash/MiniDB) | An in-memory relational database management system (DBMS) written in Java 21. |
 | [LogSentry](https://github.com/Chakaliprakash/LogSentry) | A Multithreaded Log Analyzer & Search Engine in Core Java |
 | [Secure-Digital-Wallet--Banking-API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | JavaScript project |
