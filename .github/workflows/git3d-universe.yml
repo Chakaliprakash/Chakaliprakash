@@ -37,7 +37,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          theme: aurora
+          theme: daylight
           output: profile/git3d-universe.svg
           no-motion: true
 
