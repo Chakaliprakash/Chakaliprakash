@@ -70,16 +70,16 @@ Computer Science graduate focused on building reliable backend applications, sec
 <div align="center">
 
 <a href="https://github.com/Chakaliprakash/AI-Email-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=AI-Email-Generator&hide_border=true&bg_color=050816&title_color=C9B58A&icon_color=B9B0A1&text_color=E8E1D6" alt="AI Email Generator repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/Leave-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Leave-Management-System&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="Leave Management System repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/SpringAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="SpringAI repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=AI-Email-Generator&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="AI-Email-Generator repository card"/>
 </a>
 <a href="https://github.com/Chakaliprakash/Ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Ecommerce&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="Ecommerce repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Ecommerce&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Ecommerce repository card"/>
+</a>
+<a href="https://github.com/Chakaliprakash/SpringAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="SpringAI repository card"/>
+</a>
+<a href="https://github.com/Chakaliprakash/Leave-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Leave-Management-System&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Leave-Management-System repository card"/>
 </a>
 
 </div>
@@ -115,11 +115,16 @@ Computer Science graduate focused on building reliable backend applications, sec
 <!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
 |---|---|
-| [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email generation |
-| [Leave Management System](https://github.com/Chakaliprakash/Leave-Management-System) | Leave-management application |
-| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java and Spring AI exploration |
-| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | E-commerce frontend/backend |
-| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java DSA practice |
+| [AI-Email-Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | JavaScript project |
+| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | JavaScript project |
+| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
+| [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
+| [MiniDB](https://github.com/Chakaliprakash/MiniDB) | An in-memory relational database management system (DBMS) written in Java 21. |
+| [LogSentry](https://github.com/Chakaliprakash/LogSentry) | A Multithreaded Log Analyzer & Search Engine in Core Java |
+| [Secure-Digital-Wallet--Banking-API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | JavaScript project |
+| [Portfolio](https://github.com/Chakaliprakash/Portfolio) | JavaScript project |
+| [Valentine-s-Surprise-](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | HTML project |
 <!-- AUTO-REPOSITORY-MAP:END -->
 
 <div align="center">
