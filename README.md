@@ -98,9 +98,9 @@ Computer Science graduate focused on building reliable backend applications, sec
 
 <div align="center">
 
-<img src="./profile/git3d-universe.svg" width="100%" alt="Generated 3D GitHub contribution visualization"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Isometric 3D GitHub contribution calendar"/>
 
-<sub>Generated from GitHub activity by the repository's scheduled Actions workflow. If this image is not available yet, open the workflow below and check its latest run.</sub>
+<sub>Isometric 3D contribution calendar generated automatically from GitHub activity. The workflow refreshes it weekly; open Actions to check the latest run.</sub>
 
 <a href="https://github.com/Chakaliprakash/Chakaliprakash/actions/workflows/git3d-universe.yml"><img src="https://img.shields.io/badge/3D_WORKFLOW-View_Actions-6D28D9?style=for-the-badge&logo=githubactions&logoColor=white" alt="View 3D workflow"/></a>
 
