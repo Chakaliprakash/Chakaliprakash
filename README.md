@@ -59,14 +59,14 @@ I'm a Computer Science graduate and Java-focused software developer based in Hyd
 <a href="https://github.com/Chakaliprakash/Dsa_Java">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Dsa_Java&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Dsa_Java repository card"/>
 </a>
+<a href="https://github.com/Chakaliprakash/Valentine-s-Surprise-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Valentine-s-Surprise-&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Valentine-s-Surprise- repository card"/>
+</a>
+<a href="https://github.com/Chakaliprakash/SpringAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="SpringAI repository card"/>
+</a>
 <a href="https://github.com/Chakaliprakash/MiniDB">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=MiniDB&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="MiniDB repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/LogSentry">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=LogSentry&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="LogSentry repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Secure-Digital-Wallet--Banking-API&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Secure-Digital-Wallet--Banking-API repository card"/>
 </a>
 
 </div>
@@ -93,14 +93,14 @@ I practise DSA in Java to strengthen algorithmic thinking and coding interview f
 | Repository | Focus |
 |---|---|
 | [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
+| [Valentine-s-Surprise-](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | HTML project |
+| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
 | [MiniDB](https://github.com/Chakaliprakash/MiniDB) | An in-memory relational database management system (DBMS) written in Java 21. |
 | [LogSentry](https://github.com/Chakaliprakash/LogSentry) | A Multithreaded Log Analyzer & Search Engine in Core Java |
 | [Secure-Digital-Wallet--Banking-API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | JavaScript project |
 | [Portfolio](https://github.com/Chakaliprakash/Portfolio) | JavaScript project |
 | [AI-Email-Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | JavaScript project |
 | [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | JavaScript project |
-| [Valentine-s-Surprise-](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | HTML project |
-| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
 | [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
 <!-- AUTO-REPOSITORY-MAP:END -->
 
