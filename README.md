@@ -30,14 +30,14 @@ I am a Java-focused software developer interested in backend engineering and ful
 <a href="https://github.com/Chakaliprakash/Dsa_Java">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Dsa_Java&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Dsa_Java repository card"/>
 </a>
-<a href="https://github.com/Chakaliprakash/AI-Email-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=AI-Email-Generator&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="AI-Email-Generator repository card"/>
+<a href="https://github.com/Chakaliprakash/MiniDB">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=MiniDB&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="MiniDB repository card"/>
 </a>
-<a href="https://github.com/Chakaliprakash/Ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Ecommerce&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Ecommerce repository card"/>
+<a href="https://github.com/Chakaliprakash/LogSentry">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=LogSentry&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="LogSentry repository card"/>
 </a>
-<a href="https://github.com/Chakaliprakash/SpringAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="SpringAI repository card"/>
+<a href="https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Secure-Digital-Wallet--Banking-API&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Secure-Digital-Wallet--Banking-API repository card"/>
 </a>
 
 </div>
@@ -46,21 +46,18 @@ I am a Java-focused software developer interested in backend engineering and ful
 ## Repository Directory
 
 <!-- AUTO-REPOSITORY-MAP:START -->
-| Repository | Description |
+| Repository | Focus |
 |---|---|
-| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java solutions for data structures and algorithms |
-| [RentalMate](https://github.com/Chakaliprakash/RenatlMate_16) | Property rental marketplace built with React and Spring Boot |
-| [Secure Digital Wallet](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | Spring Boot REST API for wallet and banking operations |
-| [AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | AI-assisted email writing app with browser extension |
-| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | Full-stack shopping application |
-| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Spring AI integration with OpenAI, Gemini, and Ollama |
-| [LogSentry](https://github.com/Chakaliprakash/LogSentry) | Multithreaded Java log analyzer |
-| [MiniDB](https://github.com/Chakaliprakash/MiniDB) | Educational in-memory SQL database in Java |
-| [Portfolio](https://github.com/Chakaliprakash/Portfolio) | Interactive developer portfolio built with JavaScript and Three.js |
-| [ATM-Interface](https://github.com/Chakaliprakash/ATM-Interface) | Console-based Java ATM simulation |
-| [Student & Hostel Management](https://github.com/Chakaliprakash/Leave-Management-System) | Legacy Java Servlet/JSP student and hostel management app |
-| [Sample](https://github.com/Chakaliprakash/Sample) | Java practice examples organized by topic |
-| [Valentine's Surprise](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | Interactive static webpage built with HTML, CSS, and JavaScript |
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
+| [MiniDB](https://github.com/Chakaliprakash/MiniDB) | An in-memory relational database management system (DBMS) written in Java 21. |
+| [LogSentry](https://github.com/Chakaliprakash/LogSentry) | A Multithreaded Log Analyzer & Search Engine in Core Java |
+| [Secure-Digital-Wallet--Banking-API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | JavaScript project |
+| [Portfolio](https://github.com/Chakaliprakash/Portfolio) | JavaScript project |
+| [AI-Email-Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | JavaScript project |
+| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | JavaScript project |
+| [Valentine-s-Surprise-](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | HTML project |
+| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
+| [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
 <!-- AUTO-REPOSITORY-MAP:END -->
 
 ## Development Focus
