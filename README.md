@@ -1,28 +1,57 @@
 <div align="center">
 
-<img src="./assets/download%20(5)-Picsart-AiImageEnhancer.jpg" width="100%" alt="Profile banner"/>
+<img src="./assets/download%20(5)-Picsart-AiImageEnhancer.jpg" width="100%" alt="Prakash Chakali profile banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:262626,70:6B5B45,100:C9B58A&height=210&section=header&text=PRAKASH%20CHAKALI&fontSize=44&fontColor=F5F0E8&fontAlignY=36&desc=JAVA%20BACKEND%20%7C%20SPRING%20BOOT%20%7C%20REST%20APIS&descAlignY=60&descSize=15" width="100%" alt="Prakash Chakali developer profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:262626,70:6B5B45,100:C9B58A&height=190&section=header&text=Prakash%20Chakali&fontSize=44&fontColor=F5F0E8&fontAlignY=36&desc=Java%20Software%20Engineer%20%7C%20Backend%20%7C%20Spring%20Boot&descAlignY=60&descSize=15" width="100%" alt="Prakash Chakali — Java Software Engineer"/>
 
-<a href="https://github.com/Chakaliprakash?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-6B5B45?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+<p>
+  <a href="https://github.com/Chakaliprakash?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Repositories-6B5B45?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-Backend%20Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+</p>
+
+**I build practical backend systems with Java, Spring Boot, REST APIs, and relational databases.**
+
+[Projects](#-featured-projects) · [Tech Stack](#-technical-skills) · [Connect](#-connect)
 
 </div>
 
-## About
+---
 
-I am a Java-focused software developer interested in backend engineering and full-stack application development. I build projects to practise API design, application security, database integration, and maintainable software structure.
+## 👋 About Me
 
-## Core Skills
+I'm a Computer Science graduate and Java-focused software developer based in Hyderabad, India. I enjoy designing backend services, building secure APIs, working with databases, and turning ideas into useful applications.
 
-- **Languages:** Java, SQL, JavaScript
-- **Backend:** Spring Boot, Spring MVC, Spring Security, REST APIs, JWT
-- **Databases:** MySQL, PostgreSQL
-- **Frontend:** React, HTML, CSS
+- 💻 **Primary focus:** Java backend development and Spring Boot
+- 🔐 **Interested in:** REST API design, authentication, application security, and database design
+- 🧩 **Practising:** Data structures, algorithms, object-oriented design, and problem solving
+- 🤖 **Exploring:** AI integration with Java and Spring AI
+- 🎯 **Career goal:** Contribute to a software engineering team building reliable, maintainable products
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres" alt="Spring, MySQL and PostgreSQL"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,docker,postman,vscode,idea" alt="Git, GitHub, Maven, Docker, Postman, VS Code and IntelliJ IDEA"/>
+
+</div>
+
+- **Java & backend:** Core Java, OOP, Spring Boot, Spring MVC, Spring Security, JDBC, REST APIs, JWT
+- **Databases:** MySQL, PostgreSQL, SQL
+- **Frontend:** React, JavaScript, HTML, CSS
 - **Tools:** Git, GitHub, Maven, Postman, Docker
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <!-- AUTO-FEATURED-REPOS:START -->
 <div align="center">
@@ -43,7 +72,22 @@ I am a Java-focused software developer interested in backend engineering and ful
 </div>
 <!-- AUTO-FEATURED-REPOS:END -->
 
-## Repository Directory
+### A few things I've built
+
+- **[Secure Digital Wallet & Banking API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API)** — A Spring Boot banking API focused on secure transactions, authentication, and API documentation.
+- **[LogSentry](https://github.com/Chakaliprakash/LogSentry)** — A multithreaded log analysis and search project built with Core Java.
+- **[MiniDB](https://github.com/Chakaliprakash/MiniDB)** — An educational in-memory relational database project implemented in Java.
+- **[AI Email Generator](https://github.com/Chakaliprakash/AI-Email-Generator)** — An AI-assisted email-writing application with backend and frontend components.
+- **[RentalMate](https://github.com/Chakaliprakash/RenatlMate_16)** — A rental management project built with Java, Spring Boot, React, and MySQL.
+
+## 📚 Problem Solving
+
+I practise DSA in Java to strengthen algorithmic thinking and coding interview fundamentals.
+
+- **[Java DSA Practice](https://github.com/Chakaliprakash/Dsa_Java)** — Problem solutions organized by topic and challenge.
+- Current focus: arrays, strings, binary search, sorting, hashing, sliding window, and algorithm optimization.
+
+## 📂 Repository Directory
 
 <!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
@@ -60,14 +104,26 @@ I am a Java-focused software developer interested in backend engineering and ful
 | [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
 <!-- AUTO-REPOSITORY-MAP:END -->
 
-## Development Focus
+## 📈 GitHub Activity
 
-- Build secure, well-structured REST APIs.
-- Apply object-oriented design and data structures.
-- Improve testing, documentation, and deployment workflows.
-- Explore practical AI integration with Java and Spring.
+<div align="center">
 
-## Contact
+<img src="https://github-readme-stats.vercel.app/api?username=Chakaliprakash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B58A&icon_color=C9B58A&text_color=E6EDF3" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9B58A&text_color=E6EDF3" height="165" alt="Most used languages"/>
 
-- GitHub: [Chakaliprakash](https://github.com/Chakaliprakash)
+<img src="https://streak-stats.demolab.com?user=Chakaliprakash&hide_border=true&background=0D1117&ring=C9B58A&fire=C9B58A&currStreakLabel=C9B58A&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="70%" alt="GitHub contribution streak"/>
 
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/Chakaliprakash"><img src="https://img.shields.io/badge/GitHub-Chakaliprakash-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/>
+
+*Thanks for visiting my profile. Feel free to explore my projects and code.*
+
+</div>
