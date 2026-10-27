@@ -18,13 +18,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science graduate and Java-focused software developer based in Hyderabad, India. I enjoy designing backend services, building secure APIs, working with databases, and turning ideas into useful applications.
-
-- 💻 **Primary focus:** Java backend development and Spring Boot
-- 🔐 **Interested in:** REST API design, authentication, application security, and database design
-- 🧩 **Practising:** Data structures, algorithms, object-oriented design, and problem solving
-- 🤖 **Exploring:** AI integration with Java and Spring AI
-- 🎯 **Career goal:** Contribute to a software engineering team building reliable, maintainable products
+Java Software Engineer focused on **Spring Boot, REST APIs, and AI-powered applications**. Built a modular Spring AI agent with persistent conversation memory and tool calling, alongside full-stack e-commerce and AI email-generation applications. Skilled in **JWT security, MySQL, React, and LLM integration**.
 
 ## 🛠️ Technical Skills
 
