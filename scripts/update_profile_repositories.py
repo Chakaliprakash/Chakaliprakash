@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
-"""Refresh the profile README's featured projects and repository map."""
+"""Refresh the profile README repository map."""
 import json
 import os
 import re
 import sys
 import urllib.error
 import urllib.request
-from urllib.parse import quote
 
 OWNER = "Chakaliprakash"
 PROFILE_REPO = f"{OWNER}/{OWNER}"
 README_PATH = "README.md"
 API_ROOT = "https://api.github.com"
-GOLD = "C9B58A"
-TEXT = "E8E1D6"
-BG = "111111"
 
 def github_get(url):
     headers = {
@@ -58,26 +54,6 @@ def focus_for(repo):
         return f"{language} project"
     return "Project repository"
 
-def make_featured(repos):
-    if not repos:
-        return "<sub>No public repositories found yet.</sub>"
-    cards = []
-    for repo in repos[:4]:
-        name = repo["name"]
-        encoded_name = quote(name, safe="")
-        url = repo["html_url"]
-        image = (
-            f"https://github-readme-stats.vercel.app/api/pin/?username={OWNER}"
-            f"&repo={encoded_name}&hide_border=true&bg_color={BG}"
-            f"&title_color={GOLD}&icon_color={GOLD}&text_color={TEXT}"
-        )
-        cards.append(
-            f'<a href="{url}">\n'
-            f'<img src="{image}" alt="{name} repository card"/>\n'
-            f'</a>'
-        )
-    return '<div align="center">\n\n' + "\n".join(cards) + '\n\n</div>'
-
 def make_repository_map(repos):
     if not repos:
         return "| No public repositories yet | Create your first public repository |"
@@ -110,12 +86,6 @@ def main():
 
     updated = replace_section(
         readme,
-        "<!-- AUTO-FEATURED-REPOS:START -->",
-        "<!-- AUTO-FEATURED-REPOS:END -->",
-        make_featured(repos),
-    )
-    updated = replace_section(
-        updated,
         "<!-- AUTO-REPOSITORY-MAP:START -->",
         "<!-- AUTO-REPOSITORY-MAP:END -->",
         make_repository_map(repos),
@@ -125,7 +95,7 @@ def main():
         return
 
     body = {
-        "message": "chore: auto-update featured repositories and repository map",
+        "message": "chore: auto-update repository map",
         "content": __import__("base64").b64encode(updated.encode("utf-8")).decode("ascii"),
         "sha": readme_data["sha"],
         "branch": "main",
