@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/download%20(5)-Picsart-AiImageEnhancer.jpg" width="100%" alt="Prakash Chakali profile banner"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:262626,70:6B5B45,100:C9B58A&height=190&section=header&text=Prakash%20Chakali&fontSize=44&fontColor=F5F0E8&fontAlignY=36&desc=Java%20Software%20Engineer%20%7C%20Backend%20%7C%20Spring%20Boot&descAlignY=60&descSize=15" width="100%" alt="Prakash Chakali — Java Software Engineer"/>
 
 <p>
@@ -12,7 +10,7 @@
 
 **I build practical backend systems with Java, Spring Boot, REST APIs, and relational databases.**
 
-[Projects](#-featured-projects) · [Tech Stack](#-technical-skills) · [Connect](#-connect)
+[My Work](#-a-few-things-ive-built) · [Tech Stack](#-technical-skills) · [Connect](#-connect)
 
 </div>
 
@@ -50,27 +48,6 @@ I'm a Computer Science graduate and Java-focused software developer based in Hyd
 - **Databases:** MySQL, PostgreSQL, SQL
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Tools:** Git, GitHub, Maven, Postman, Docker
-
-## 🚀 Featured Projects
-
-<!-- AUTO-FEATURED-REPOS:START -->
-<div align="center">
-
-<a href="https://github.com/Chakaliprakash/Dsa_Java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Dsa_Java&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Dsa_Java repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/Valentine-s-Surprise-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=Valentine-s-Surprise-&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="Valentine-s-Surprise- repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/SpringAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=SpringAI&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="SpringAI repository card"/>
-</a>
-<a href="https://github.com/Chakaliprakash/MiniDB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chakaliprakash&repo=MiniDB&hide_border=true&bg_color=111111&title_color=C9B58A&icon_color=C9B58A&text_color=E8E1D6" alt="MiniDB repository card"/>
-</a>
-
-</div>
-<!-- AUTO-FEATURED-REPOS:END -->
 
 ### A few things I've built
 
