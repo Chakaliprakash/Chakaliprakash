@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-Java Software Engineer focused on **Spring Boot, REST APIs, and AI-powered applications**. Built a modular Spring AI agent with persistent conversation memory and tool calling, alongside full-stack e-commerce and AI email-generation applications. Skilled in **JWT security, MySQL, React, and LLM integration**.
+Aspiring **Java Software Engineer** and Computer Science graduate with a strong foundation in **Java, Spring Boot, SQL, and REST API development**. Built projects involving **AI agents, full-stack e-commerce, and LLM integration**, with hands-on experience in backend development, JWT security, and MySQL. Eager to learn, contribute, and grow as a software engineer.
 
 ## 🛠️ Technical Skills
 
