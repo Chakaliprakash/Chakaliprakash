@@ -64,6 +64,8 @@ I practise DSA in Java to strengthen algorithmic thinking and coding interview f
 | Repository | Focus |
 |---|---|
 | [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
+| [mystery_stay](https://github.com/Chakaliprakash/mystery_stay) | Java project |
+| [MysteryStay](https://github.com/Chakaliprakash/MysteryStay) | Java project |
 | [Finix_BankingFInancialTransaction](https://github.com/Chakaliprakash/Finix_BankingFInancialTransaction) | Java project |
 | [Valentine-s-Surprise-](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | HTML project |
 | [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
