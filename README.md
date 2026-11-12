@@ -64,6 +64,7 @@ I practise DSA in Java to strengthen algorithmic thinking and coding interview f
 | Repository | Focus |
 |---|---|
 | [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
+| [Portfolio](https://github.com/Chakaliprakash/Portfolio) | HTML project |
 | [mystery_stay](https://github.com/Chakaliprakash/mystery_stay) | Java project |
 | [MysteryStay](https://github.com/Chakaliprakash/MysteryStay) | Java project |
 | [Finix_BankingFInancialTransaction](https://github.com/Chakaliprakash/Finix_BankingFInancialTransaction) | Java project |
@@ -72,7 +73,6 @@ I practise DSA in Java to strengthen algorithmic thinking and coding interview f
 | [MiniDB](https://github.com/Chakaliprakash/MiniDB) | An in-memory relational database management system (DBMS) written in Java 21. |
 | [LogSentry](https://github.com/Chakaliprakash/LogSentry) | A Multithreaded Log Analyzer & Search Engine in Core Java |
 | [Secure-Digital-Wallet--Banking-API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | JavaScript project |
-| [Portfolio](https://github.com/Chakaliprakash/Portfolio) | JavaScript project |
 | [AI-Email-Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | JavaScript project |
 | [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | JavaScript project |
 | [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
