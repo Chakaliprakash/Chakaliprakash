@@ -201,7 +201,19 @@ Topic-wise algorithm practice with a dedicated Codeforces dashboard.
 <!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
 |---|---|
-| Repository list is refreshed automatically by GitHub Actions. | [Browse all repositories](https://github.com/Chakaliprakash?tab=repositories) |
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
+| [Portfolio](https://github.com/Chakaliprakash/Portfolio) | HTML project |
+| [mystery_stay](https://github.com/Chakaliprakash/mystery_stay) | Java project |
+| [MysteryStay](https://github.com/Chakaliprakash/MysteryStay) | Java project |
+| [Finix_BankingFInancialTransaction](https://github.com/Chakaliprakash/Finix_BankingFInancialTransaction) | Java project |
+| [Valentine-s-Surprise-](https://github.com/Chakaliprakash/Valentine-s-Surprise-) | HTML project |
+| [SpringAI](https://github.com/Chakaliprakash/SpringAI) | Java project |
+| [MiniDB](https://github.com/Chakaliprakash/MiniDB) | An in-memory relational database management system (DBMS) written in Java 21. |
+| [LogSentry](https://github.com/Chakaliprakash/LogSentry) | A Multithreaded Log Analyzer & Search Engine in Core Java |
+| [Secure-Digital-Wallet--Banking-API](https://github.com/Chakaliprakash/Secure-Digital-Wallet--Banking-API) | JavaScript project |
+| [AI-Email-Generator](https://github.com/Chakaliprakash/AI-Email-Generator) | JavaScript project |
+| [Ecommerce](https://github.com/Chakaliprakash/Ecommerce) | JavaScript project |
+| [Leave-Management-System](https://github.com/Chakaliprakash/Leave-Management-System) | Java project |
 <!-- AUTO-REPOSITORY-MAP:END -->
 
 <sub>The repository directory above is maintained automatically from my public GitHub repositories.</sub>
