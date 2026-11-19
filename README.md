@@ -219,7 +219,6 @@ Topic-wise algorithm practice with a dedicated Codeforces dashboard.
 <div align="center">
 
 <a href="https://github.com/Chakaliprakash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
