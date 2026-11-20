@@ -201,8 +201,8 @@ Topic-wise algorithm practice with a dedicated Codeforces dashboard.
 <!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
 |---|---|
-| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
 | [Portfolio](https://github.com/Chakaliprakash/Portfolio) | HTML project |
+| [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
 | [mystery_stay](https://github.com/Chakaliprakash/mystery_stay) | Java project |
 | [MysteryStay](https://github.com/Chakaliprakash/MysteryStay) | Java project |
 | [Finix_BankingFInancialTransaction](https://github.com/Chakaliprakash/Finix_BankingFInancialTransaction) | Java project |
