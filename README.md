@@ -201,6 +201,7 @@ Topic-wise algorithm practice with a dedicated Codeforces dashboard.
 <!-- AUTO-REPOSITORY-MAP:START -->
 | Repository | Focus |
 |---|---|
+| [DSA-Contest-Arena](https://github.com/Chakaliprakash/DSA-Contest-Arena) | JavaScript project |
 | [Portfolio](https://github.com/Chakaliprakash/Portfolio) | HTML project |
 | [Dsa_Java](https://github.com/Chakaliprakash/Dsa_Java) | Java project |
 | [mystery_stay](https://github.com/Chakaliprakash/mystery_stay) | Java project |
